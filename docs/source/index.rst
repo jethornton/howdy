@@ -10,7 +10,7 @@ Welcome to Howdy's documentation!
    :maxdepth: 2
    :caption: Contents:
 
-
+   howdy
 
 Indices and tables
 ==================
